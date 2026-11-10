@@ -1,0 +1,13 @@
+# Java compilado e pastas de build
+*.class
+/build/
+/out/
+
+# Dados locais, cópias de segurança e arquivos temporários
+pacientes.tsv
+pacientes.tsv.bak*
+pacientes-*.tmp
+*.tmp
+
+# Logs de falha da JVM
+hs_err_pid*.log
